@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./1.jpg" width="100%" alt="Reza">
+<img align="right" src="./1.jpg" width="400" alt="Reza">
 
-<h1>Hi, I'm Reza 👋</h1>
+<h1 align="left">Hi, I'm Reza 👋</h1>
 
-<p>An AI Automation Developer from Iran 🤖</p>
+<p align="left">
+An AI Automation Developer from Iran 🤖
+</p>
 
 </div>
 <h1 align="center">Hi 👋, I'm Reza</h1>
