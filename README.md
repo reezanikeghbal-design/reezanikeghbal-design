@@ -1,3 +1,4 @@
+<img align="right" width="200" src="./1.jpg" alt="Logo">
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">🇬🇧 An AI automation developer from Iran.</h3>
 
