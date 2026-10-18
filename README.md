@@ -1,3 +1,4 @@
+![Uploading Zal_ Turning Ideas Into Intelligent Systems (1).png…]()
 <div align="center">
 
 <img src="./1.jpg" width="100%" alt="Reza">
