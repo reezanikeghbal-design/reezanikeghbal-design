@@ -23,7 +23,7 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 - 💬 Ask me about **Programming fundamentals, machine learning, and artificial intelligence**
 
-- 📫 How to reach me **reezanikeghbal@gmail.com**
+- 📫 How to reach me **rezanikeghballl@gmail.com**
 
 - 📄 Know about my experiences [Problem solving, automation, and finding practical solutions to difficult problems](Problem solving, automation, and finding practical solutions to difficult problems)
 
