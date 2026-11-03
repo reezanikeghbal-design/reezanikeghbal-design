@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="" width="100%" />
+  <img src="Futuristic%20Blue%20Network%20Globe.png" alt="" width="100%" />
 </p>
 
 ---
