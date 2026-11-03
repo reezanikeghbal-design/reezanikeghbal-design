@@ -1,59 +1,49 @@
 # Hi, I'm Reza 👋
 
-### AI Engineer | LLM & RAG Systems | AI Evaluation | Model Serving
+### AI Engineer | LLM Applications | RAG Systems | AI Evaluation
 
-I'm an **AI Engineer** focused on designing and building **production-minded AI systems powered by LLMs**. My work goes beyond integrating language models—I focus on building systems that are **reliable, measurable, observable, and practical for real-world use**.
+I build practical AI systems powered by Large Language Models, with a focus on **Retrieval-Augmented Generation (RAG), information retrieval, evaluation, and reliable model serving**.
 
-My main areas of interest include **RAG, LLM evaluation, AI agents, and model-serving infrastructure**, with a particular interest in building AI solutions for the **Persian language**.
+I’m particularly interested in turning LLM prototypes into maintainable applications and exploring the engineering challenges of building AI systems for the **Persian language**.
 
-## 🚀 What I Build
+## What I Work On
 
-- **RAG & Information Retrieval** — Building document-based Q&A systems with vector search, retrieval pipelines, and source-grounded answers
-- **LLM Evaluation** — Evaluating retrieval quality, answer faithfulness, and benchmarking LLM and RAG systems
-- **LLM Serving & Observability** — Building model-serving infrastructure with FastAPI, Ollama, and Docker, with monitoring through Prometheus
-- **AI Agents** — Developing tool-using agents capable of deciding when to search, validating results, and managing memory
-- **Persian AI** — Exploring and developing LLM and RAG systems with a focus on the challenges of the Persian language
+- **LLM & RAG Engineering** — Document ingestion, chunking, embeddings, vector search, retrieval pipelines, and grounded generation.
+- **LLM Evaluation** — Retrieval evaluation, answer quality, faithfulness, and benchmarking.
+- **AI Agents** — Research workflows, tool use, information validation, and agent memory.
+- **Model Serving** — API-based inference, performance benchmarking, and observability.
+- **Persian AI** — Language-specific challenges in retrieval, evaluation, and LLM applications.
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### [persian-ai-evaluation](https://github.com/reezanikeghbal-design/persian-ai-evaluation)
+### [Enterprise AI Knowledge Assistant](https://github.com/reezanikeghbal-design/enterprise-ai-knowledge-assistant)
+A document-based RAG application for enterprise knowledge retrieval, question answering, and source citations.
 
-A framework for **evaluating Persian LLM and RAG systems**, with a focus on retrieval quality and answer faithfulness.
+### [Persian AI Evaluation](https://github.com/reezanikeghbal-design/persian-ai-evaluation)
+An evaluation project focused on assessing Persian-language LLM and RAG systems.
 
-### [enterprise-ai-knowledge-assistant](https://github.com/reezanikeghbal-design/enterprise-ai-knowledge-assistant)
+### [LLM Serving Performance Benchmark Platform](https://github.com/reezanikeghbal-design/llm-serving-performance-benchmark-platform)
+A platform for LLM serving and performance benchmarking, with an emphasis on observability and infrastructure.
 
-A **RAG-powered enterprise knowledge assistant** for document search and Q&A, with source citations and grounded answers.
+### [Mini Research Agent](https://github.com/reezanikeghbal-design/mini-research-agent)
+A lightweight research agent designed to search for information, validate results, and maintain memory.
 
-### [llm-serving-performance-benchmark-platform](https://github.com/reezanikeghbal-design/llm-serving-performance-benchmark-platform)
+## Technical Skills
 
-A platform for **serving and benchmarking LLMs** using FastAPI, Ollama, Docker, and Prometheus, with a focus on performance and observability.
+**Languages:** Python
 
-### [mini-research-agent](https://github.com/reezanikeghbal-design/mini-research-agent)
+**AI & Machine Learning:** LLMs, RAG, Embeddings, Semantic Search, AI Agents
 
-A lightweight **research agent** that decides when to search, validates results, and maintains local memory.
+**Backend:** FastAPI, REST APIs, Pytest
 
-## 🛠️ Tech Stack
+**Infrastructure & Tools:** Docker, Ollama, PostgreSQL, Prometheus, FAISS
 
-**Languages & Frameworks**
+## Current Focus
 
-Python · FastAPI · Pytest · Streamlit
+Building reliable LLM-powered applications, improving RAG evaluation, benchmarking model-serving systems, and exploring Persian-language AI.
 
-**AI & Retrieval**
+## Let's Connect
 
-LLMs · RAG · Vector Search · FAISS · Ollama · AI Agents
-
-**Backend & Infrastructure**
-
-PostgreSQL · Docker · Prometheus
-
-## 🎯 Current Focus
-
-I'm currently focused on building **production-ready LLM systems**—systems that can be measured and optimized not only for answer quality, but also across **retrieval, evaluation, observability, and performance**.
-
-I'm particularly interested in the challenges of building **LLM and RAG systems for Persian** and turning AI prototypes into reliable, maintainable services for real-world environments.
-
-## 🤝 Let's Connect
-
-If you're interested in **LLMs, RAG, AI Evaluation, AI Agents, or model-serving infrastructure**, feel free to connect.
+I'm interested in connecting with engineers and teams working on LLM applications, RAG infrastructure, AI evaluation, and applied AI.
 
 [LinkedIn](https://www.linkedin.com/in/reza-nike-ab1925447/)
