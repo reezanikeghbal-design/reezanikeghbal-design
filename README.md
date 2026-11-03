@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="" width="100%" />
+</p>
+
+---
+
 # Hi, I'm Reza 👋
 
 ### AI Engineer | LLM Applications | RAG Systems | AI Evaluation
